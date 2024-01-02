@@ -18,3 +18,4 @@ public class DatabaseConnection {
         return DriverManager.getConnection(URL, USER, PASSWORD);
     }
 }
+Update at 2024-01-03 01:01:02
